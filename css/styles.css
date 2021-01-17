@@ -1,0 +1,12 @@
+h1 {
+    color: #1F1FAB;
+  }
+  h3 {
+    color: #1F1FAB;
+  }
+  hr {
+    width: 15%;
+    border-width: 5px;
+    border-color: blue;
+    border-style: dotted none none;
+  }
